@@ -1,4 +1,3 @@
 <Solution>
-  <Project Path="LearningCode/LearningCode.csproj" />
-  <Project Path="WebApplication1/Web_Application.csproj" Id="7dfc683c-08c7-4354-8219-d388ebafd996" />
+  <Project Path="ManualDockerCreation/ManualDockerCreation.csproj" Id="91687bcb-a309-439a-85b8-abbd681f0c6c" />
 </Solution>
